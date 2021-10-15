@@ -1,0 +1,35 @@
+{
+  "version": "9",
+  "items": {
+    "7e46137bd84cd3d52afd0081f138b4c5": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-js/1.5.31/e735bb7789c907d1fec0d2dfbb11b046198822c7/kotlin-stdlib-js-1.5.31.jar",
+      "target": "kotlin/1.5.31"
+    },
+    "5b337cc3610dde3ec3719bda35d999e0": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.5.31/43331609c7de811fed085e0dfd150874b157c32/kotlin-stdlib-common-1.5.31.jar"
+    },
+    "a13bd0228dc6b55c8afec77c31a4af61": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.web/web-core-js/1.0.0-alpha4-build362/c8b8f8295756a007e2dabb52f6dee9a8e0e583e3/web-core-js-1.0.0-alpha4-build362.klib"
+    },
+    "fa5e4099ae87a14018a452a029c15f6f": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.web/internal-web-core-runtime-js/1.0.0-alpha4-build362/35679300f47f34b722b96de70b6d5698da806bb3/internal-web-core-runtime-js-1.0.0-alpha4-build362.klib"
+    },
+    "7c5c72a605031620a2feb6cdf77c66dc": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.compose.runtime/runtime-js/1.0.0-alpha4-build362/e040a358b7e457a720de9cde124e04371de4eeff/runtime-js-1.0.0-alpha4-build362.klib"
+    },
+    "15329003ff46d95a3b096298e1e5c7cb": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-js/1.5.0/217834c27f3ba5f28b897fead52238f6f30febb1/kotlinx-coroutines-core-jsir-1.5.0.klib"
+    },
+    "de526995f2d5b3f2adcec5ff451757e9": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-js/0.16.1/a462e9d32ae4d38851d2c831025981198f10f75b/atomicfu-jsir-0.16.1.klib"
+    },
+    "337ff817e087aded273dfc9ba494baf4": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js-runner/1.5.31/20ef83e15f8c2cde090f3bfd8c1eba72947f7ab8/kotlin-test-js-runner-1.5.31.jar",
+      "target": "kotlin-test-js-runner/1.5.31"
+    },
+    "d48c49450e9eb3b3c0cc6040ca564f91": {
+      "src": "/home/carlos/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-test-js/1.5.31/2c5105ba30e3396c0a5d112ad75a7076f5409a62/kotlin-test-js-1.5.31.jar",
+      "target": "kotlin-test/1.5.31"
+    }
+  }
+}

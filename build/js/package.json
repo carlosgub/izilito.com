@@ -1,0 +1,19 @@
+{
+  "name": "compose-web",
+  "version": "unspecified",
+  "private": true,
+  "workspaces": [
+    "packages/compose-web",
+    "packages_imported/kotlin/1.5.31",
+    "packages_imported/kotlin-test-js-runner/1.5.31",
+    "packages_imported/kotlin-test/1.5.31"
+  ],
+  "resolutions": {
+    "@webpack-cli/serve": "1.5.2"
+  },
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
